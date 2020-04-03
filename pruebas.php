@@ -11,7 +11,8 @@
 	<h1>Curso OOP-SQL <small>Programa para tiendas</small></h1>
 
 	<?php
-		echo "Prueba de php para github";
+		echo "Prueba de php para github.";
+		echo "<br>Añado nueva línea para ver qué pasa.";
 	?>
 
 </body>
