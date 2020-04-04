@@ -8,11 +8,12 @@
 	<title>Curso GitHub</title>
 </head>
 <body class="container-fluid">
-	<h1>Curso OOP-SQL <small>Programa para tiendas</small></h1>
+	<h1>Curso GitHub <small>Pruebas de repositorio</small></h1>
 
 	<?php
 		echo "Prueba de php para github.";
 		echo "<br>Añado nueva línea para ver qué pasa.";
+		echo "<br>Modifico h1 desde pc.";
 	?>
 
 </body>
